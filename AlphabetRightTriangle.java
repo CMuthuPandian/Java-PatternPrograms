@@ -25,3 +25,11 @@ public class AlphabetRightTriangle {
         }
     }
 }
+
+Output:
+
+a 
+B c 
+D e F 
+g H i J 
+k L m N o
