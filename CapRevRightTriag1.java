@@ -15,3 +15,11 @@ public class CapRevRightTriag1 {
         }
     }
 }
+
+Output:
+
+E D C B A 
+D C B A 
+C B A 
+B A 
+A
