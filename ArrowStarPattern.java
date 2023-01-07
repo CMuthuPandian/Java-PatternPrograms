@@ -17,6 +17,8 @@ public class ArrowStarPattern {
     }
 }
 
+/*
+
 Output:
 
 *
@@ -38,3 +40,5 @@ Output:
 ***
 **
 *
+
+*/
