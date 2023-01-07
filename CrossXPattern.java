@@ -15,6 +15,8 @@ public class CrossXPattern {
     }
 }
 
+/*
+
 Output:
 
 *        *
@@ -27,3 +29,5 @@ Output:
 * *    * *
 **      **
 *        *
+
+*/
