@@ -19,3 +19,16 @@ public class InvertedTriangle {
 
     }
 }
+
+/*
+
+Output:
+
+*********
+ *******
+  *****
+   ***
+    *
+    
+*/
+    
