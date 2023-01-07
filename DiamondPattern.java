@@ -27,3 +27,20 @@ public class DiamondPattern {
 
     }
 }
+
+/*
+
+Output:
+
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+     
+*/     
+     
