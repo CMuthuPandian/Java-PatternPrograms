@@ -25,6 +25,8 @@ public class AlternateOneZeroTraig {
     }
 }
 
+/*
+
 Output:
 
 1 
@@ -32,3 +34,5 @@ Output:
 1 0 1 
 0 1 0 1 
 1 0 1 0 1 
+
+*/
