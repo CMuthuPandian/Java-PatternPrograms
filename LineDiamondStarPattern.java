@@ -36,3 +36,20 @@ public class LineDiamondStarPattern {
 
     }
 }
+
+/*
+
+Output:
+
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+    
+ */
+
