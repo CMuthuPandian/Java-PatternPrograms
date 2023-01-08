@@ -22,3 +22,13 @@ public class MPattern {
 
     }
 }
+
+/*
+
+Output:
+
+    *       *     
+  *   *   *   *   
+*       *       * 
+
+ */
