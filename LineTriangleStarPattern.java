@@ -12,11 +12,13 @@ public class LineTriangleStarPattern {
             if (i == 1) {
                 System.out.print("*");
                 space -= 2;
-            } else if (i == n) {
+            } 
+            else if (i == n) {
                 for(l = 1; l < 2 * n; ++l) {
                     System.out.print("*");
                 }
-            } else {
+            } 
+            else {
                 System.out.print("*");
 
                 for(l = 1; l <= space; ++l) {
