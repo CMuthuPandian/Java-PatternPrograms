@@ -18,7 +18,8 @@ public class LineDiamondStarPattern {
                 }
 
                 System.out.print("*");
-            } else {
+            } 
+            else {
                 System.out.print("*");
                 count -= 2;
             }
@@ -26,7 +27,8 @@ public class LineDiamondStarPattern {
             if (i < n / 2) {
                 ++space;
                 count += 2;
-            } else {
+            } 
+            else {
                 --space;
                 count -= 2;
             }
