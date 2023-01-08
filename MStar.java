@@ -5,7 +5,6 @@ public class MStar {
 
         for(int i = 1; i < 2 * n; ++i) {
             int space = 2 * n - 2 * row;
-
             int j;
             for(j = 1; j <= row; ++j) {
                 System.out.print("*");
