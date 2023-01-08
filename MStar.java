@@ -24,7 +24,6 @@ public class MStar {
             else {
                 --row;
             }
-
             System.out.println();
         }
 
