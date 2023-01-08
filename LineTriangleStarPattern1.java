@@ -33,3 +33,15 @@ public class LineTriangleStarPattern1 {
 
     }
 }
+
+/*
+
+Output:
+
+*********
+ *     *
+  *   *
+   * *
+    *
+    
+ */
