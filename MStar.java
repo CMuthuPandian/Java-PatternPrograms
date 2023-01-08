@@ -20,7 +20,8 @@ public class MStar {
 
             if (i < n) {
                 ++row;
-            } else {
+            } 
+            else {
                 --row;
             }
 
