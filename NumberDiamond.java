@@ -9,7 +9,6 @@ public class NumberDiamond {
             for(j = space; j < n; ++j) {
                 System.out.print(" ");
             }
-
             for(j = column; j >= 1; --j) {
                 System.out.print(j);
                 if (j == 1) {
@@ -27,7 +26,6 @@ public class NumberDiamond {
                 --column;
                 --space;
             }
-
             System.out.println();
         }
 
