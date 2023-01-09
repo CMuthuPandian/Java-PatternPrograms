@@ -19,3 +19,15 @@ public class NormalTriangleStarPattern {
 
     }
 }
+
+/*
+
+Output:
+
+    *
+   ***
+  *****
+ *******
+*********
+
+ */
