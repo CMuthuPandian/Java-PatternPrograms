@@ -8,11 +8,9 @@ public class NormalTriangleStarPattern {
             for(k = i; k < n; ++k) {
                 System.out.print(" ");
             }
-
             for(k = 1; k <= column; ++k) {
                 System.out.print("*");
             }
-
             column += 2;
             System.out.println();
         }
