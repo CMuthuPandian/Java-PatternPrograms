@@ -22,7 +22,8 @@ public class NumberDiamond {
             if (i < n) {
                 ++column;
                 ++space;
-            } else {
+            } 
+            else {
                 --column;
                 --space;
             }
