@@ -16,7 +16,6 @@ public class PerimeterNumber {
                     System.out.print("4 ");
                 }
             }
-
             System.out.println();
         }
 
