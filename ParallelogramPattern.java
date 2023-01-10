@@ -7,7 +7,6 @@ public class ParallelogramPattern {
             for(j = i; j <= n - 1; ++j) {
                 System.out.print(" ");
             }
-
             for(j = 1; j <= n; ++j) {
                 if (i != 1 && i != n && j != 1 && j != n) {
                     System.out.print(" ");
@@ -15,7 +14,6 @@ public class ParallelogramPattern {
                     System.out.print("*");
                 }
             }
-
             System.out.println();
         }
 
