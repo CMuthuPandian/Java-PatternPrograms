@@ -6,6 +6,7 @@ public class PascalTriangle {
         int n = 5;
         printPascal(n);
     }
+    
     public static void printPascal(int n) {
         for (int line = 1; line <= n; line++) {
             for (int j = 0; j <= n - line; j++) {
@@ -19,6 +20,7 @@ public class PascalTriangle {
             System.out.println();
         }
     }
+    
 }
 
 /*
