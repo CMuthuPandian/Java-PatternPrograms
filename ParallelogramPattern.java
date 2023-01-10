@@ -21,3 +21,15 @@ public class ParallelogramPattern {
 
     }
 }
+
+/*
+
+Output:
+
+    *****
+   *   *
+  *   *
+ *   *
+*****
+
+ */
