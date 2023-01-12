@@ -30,3 +30,20 @@ public class SandClockStarPattern {
 
     }
 }
+
+/*
+
+Output:
+
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * *
+
+ */
