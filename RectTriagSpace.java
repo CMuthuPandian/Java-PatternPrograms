@@ -7,19 +7,15 @@ public class RectTriagSpace {
             for(m = 1; m <= i; ++m) {
                 System.out.print(m);
             }
-
             for(m = i; m < n; ++m) {
                 System.out.print(" ");
             }
-
             for(m = i; m < n; ++m) {
                 System.out.print(" ");
             }
-
             for(m = i; m >= 1; --m) {
                 System.out.print(m);
             }
-
             System.out.println();
         }
 
