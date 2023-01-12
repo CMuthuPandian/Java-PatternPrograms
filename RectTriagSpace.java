@@ -1,7 +1,6 @@
 public class RectTriagSpace {
     public static void main(String[] args) {
         int n = 5;
-
         for(int i = 1; i <= n; ++i) {
             int m;
             for(m = 1; m <= i; ++m) {
