@@ -3,17 +3,14 @@ public class SandClockStarPattern {
         int n = 5;
         int space = 1;
         int star = 1;
-
         for(int i = 1; i <= 2 * n; ++i) {
             int k;
             for(k = 1; k < space; ++k) {
                 System.out.print(" ");
             }
-
             for(k = star; k <= n; ++k) {
                 System.out.print("* ");
             }
-
             if (i < n) {
                 ++star;
                 ++space;
@@ -24,7 +21,6 @@ public class SandClockStarPattern {
                 --star;
                 --space;
             }
-
             System.out.println();
         }
 
