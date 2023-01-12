@@ -3,13 +3,11 @@ public class RhombusNumber {
         int n = 5;
         int count = 1;
         int space = 1;
-
         for(int i = 1; i < n * 2; ++i) {
             int j;
             for(j = n - space; j > 0; --j) {
                 System.out.print(" ");
             }
-
             int start;
             if (i < n) {
                 start = i;
@@ -18,7 +16,6 @@ public class RhombusNumber {
                 start = n * 2 - i;
                 --space;
             }
-
             for(j = 0; j < count; ++j) {
                 System.out.print(start);
                 if (j < count / 2) {
@@ -27,13 +24,11 @@ public class RhombusNumber {
                     ++start;
                 }
             }
-
             if (i < n) {
                 count += 2;
             } else {
                 count -= 2;
             }
-
             System.out.println();
         }
 
