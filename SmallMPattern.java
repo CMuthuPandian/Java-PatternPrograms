@@ -7,16 +7,18 @@ public class SmallMPattern {
                 if (i % 2 != 0) {
                     if ((i + j) % 4 == 0) {
                         System.out.print("* ");
-                    } else {
+                    } 
+                    else {
                         System.out.print("  ");
                     }
-                } else if (j % 2 == 0) {
+                } 
+                else if (j % 2 == 0) {
                     System.out.print("* ");
-                } else {
+                } 
+                else {
                     System.out.print("  ");
                 }
             }
-
             System.out.println();
         }
 
