@@ -33,3 +33,15 @@ public class TrapeziumPattern {
 
     }
 }
+
+/*
+
+Output:
+
+*   *
+** **
+*****
+** **
+*   *
+
+ */
