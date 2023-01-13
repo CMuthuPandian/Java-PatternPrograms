@@ -25,7 +25,6 @@ public class TrapeziumPattern {
                     System.out.print(" " + var10001);
                 }
             }
-
             System.out.println();
             space += 2;
             second = second - 1 - (i - 1) * 2;
