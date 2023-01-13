@@ -25,7 +25,6 @@ public class XStar {
                 --column;
                 space=space+2;
             }
-
             System.out.println();
         }
     }
