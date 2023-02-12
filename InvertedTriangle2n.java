@@ -25,7 +25,6 @@ Sample Output 0
  */
 import java.util.Scanner;
 public class InvertedTriangle2n {
-
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
