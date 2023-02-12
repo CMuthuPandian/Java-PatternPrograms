@@ -39,7 +39,6 @@ public class InvertedTriangle2n {
             count=count-2;
             System.out.println();
         }
-
     }
 
 }
