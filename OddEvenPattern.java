@@ -60,6 +60,7 @@ public class OddEvenPattern {
             System.out.println();
         }
     }
+    
 }
 
 /*
