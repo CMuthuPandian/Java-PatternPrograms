@@ -36,7 +36,6 @@ Sample Output 1
 19 21 23 25 27 29 31
 
  */
-
 import java.util.Scanner;
 
 public class OddEvenPattern {
