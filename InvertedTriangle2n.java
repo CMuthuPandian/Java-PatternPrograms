@@ -40,7 +40,6 @@ public class InvertedTriangle2n {
             System.out.println();
         }
     }
-
 }
 
 /*
