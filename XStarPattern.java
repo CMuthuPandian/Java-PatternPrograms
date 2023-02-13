@@ -66,3 +66,18 @@ public class XStarPattern {
     }
 
 }
+
+/*
+
+Output:
+
+8
+*      *
+ *    * 
+  *  *  
+   **   
+  *  *  
+ *    * 
+*      *
+
+ */
