@@ -61,7 +61,6 @@ public class XStarPattern {
             System.out.println();
         }
     }
-
 }
 
 /*
