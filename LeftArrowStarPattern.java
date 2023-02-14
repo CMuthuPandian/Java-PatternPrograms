@@ -52,6 +52,7 @@ public class LeftArrowStarPattern {
             System.out.println();
         }
     }
+   
 }
 
 /*
