@@ -60,6 +60,7 @@ public class NumberSquare {
             System.out.println();
         }
     }
+    
 }
 
 /*
