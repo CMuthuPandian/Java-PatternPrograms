@@ -51,3 +51,18 @@ public class AlphabetTriangleDown {
     }
 
 }
+
+/*
+
+Output:
+
+7
+abcdefg
+abcdef
+abcde
+abcd
+abc
+ab
+a
+
+ */
