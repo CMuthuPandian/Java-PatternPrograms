@@ -30,7 +30,6 @@ ab
 a
 
  */
-
 import java.util.Scanner;
 
 public class AlphabetTriangleDown {
